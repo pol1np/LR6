@@ -8,12 +8,12 @@
 ![image](https://github.com/pol1np/LR6/blob/report/newfolder/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-15%20041145.png?raw=true)
 ![image](https://github.com/pol1np/LR6/blob/report/newfolder/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-15%20041323.png?raw=true)
 4. Подтягиваем изменения в локальный репозиторий.
-![image]([https://github.com/user-attachments/assets/5c8b1818-b124-4d3a-9e4d-e5f891fcccad](https://github.com/pol1np/LR6/blob/report/newfolder/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-15%20041419.png?raw=true))
+![image](https://github.com/user-attachments/assets/45adc0b1-e31c-4cfd-89a6-fb91a7bb27d9)
 5. Получаем историю для каждой ветки.
-(https://github.com/pol1np/LR6/blob/report/newfolder/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-15%20041517.png?raw=true)
+![image](https://github.com/user-attachments/assets/8239bf87-a14f-4fad-ad06-e3cb366a2169)
 6. Смотрим последние изменения для каждой ветки.
-https://github.com/pol1np/LR6/blob/report/newfolder/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-15%20041644.png?raw=true
-https://github.com/pol1np/LR6/blob/report/newfolder/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-15%20041657.png?raw=true
+![image](https://github.com/user-attachments/assets/34dedd9a-b986-41ef-a547-ffcbb85abf00)
+![image](https://github.com/user-attachments/assets/0f5d7d00-a555-4d05-b558-de71c63fe576)
 7. Выполняем слияние и решаем конфликт.
 ![image](https://github.com/user-attachments/assets/dd3c8133-0472-4ff6-b6f8-2adb47dd48b9)
 ![image](https://github.com/user-attachments/assets/e1687b52-b050-47b4-838a-19daacb2311f)
@@ -34,6 +34,7 @@ https://github.com/pol1np/LR6/blob/report/newfolder/%D0%A1%D0%BD%D0%B8%D0%BC%D0%
 12. Создаем ветку для отчета и переходим на нее.
 ![image](https://github.com/user-attachments/assets/18473dce-f9a7-4e98-97fb-e0497008d8f5)
 13. Отправляем все данные на удаленный репозиторий.
+![image](https://github.com/user-attachments/assets/8795487f-a03a-44b6-94ba-8627ea6b7542)
 
 
 
