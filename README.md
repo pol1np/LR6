@@ -60,6 +60,18 @@ git push --set-upstream origin otchet </br>
 * 921f53b 2020-11-21 Kurtyanik Обновление информации
 * c08a654 2020-11-21 Kurtyanik Файл создан пустым
 * 3c6e913 2020-11-21 Kurtyanik Initial commit
+* 8ecb019 2024-11-15 pol1np Добавлен новый файл
+* a3b9e8a 2024-11-15 pol1np Обновление в файле
+*   1ad7ba1 2024-11-15 pol1np Сделали Merge
+|\
+| * 8b2cbd8 2024-11-15 pol1np Create New file
+| * 921f53b 2020-11-21 Kurtyanik Обновление информации
+* | 0f9f50d 2020-11-21 Kurtyanik Заполнил файл
+|/
+* c08a654 2020-11-21 Kurtyanik Файл создан пустым
+* 3c6e913 2020-11-21 Kurtyanik Initial commit
+
+
 
 
 
