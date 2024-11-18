@@ -20,7 +20,6 @@
 ![image](https://github.com/user-attachments/assets/ea44f9d8-dc66-469c-9e05-0d5baae2c3b3) </br>
 ![image](https://github.com/user-attachments/assets/bb36da7c-7430-423f-8c57-a16c674a4305) </br>
 ![image](https://github.com/user-attachments/assets/7d538ebb-4569-48a6-a8dd-5cca115361d3) </br>
-![image](https://github.com/user-attachments/assets/49827b9c-4157-402a-9ee4-808880621721) </br>
 ![image](https://github.com/user-attachments/assets/4a75f470-329d-499f-af74-5fbf53ad6fdf) </br>
 ![image](https://github.com/user-attachments/assets/c0be92ac-2acb-46e5-8321-a8196b0150f0) </br>
 8. Удаляем побочную ветку master </br>
@@ -57,51 +56,10 @@ git checkout -b otchet </br>
 git branch </br>
 git push --set-upstream origin otchet </br>
 # История операция
-commit 8b2cbd8b583214c76d3bdd24455e2ea3d619efbd (HEAD -> master, origin/master, origin/HEAD)
-Author: pol1np <144121623+pol1np@users.noreply.github.com>
-Date:   Fri Nov 15 04:12:56 2024 +0300
-
-    Create New file
-
-commit 921f53b8d0cebf542c791cf31f04e9b792f385a4
-Author: Kurtyanik <45309985+Kurtyanik@users.noreply.github.com>
-Date:   Sat Nov 21 20:09:49 2020 +0300
-
-    Обновление информации
-
-commit c08a654a63cfc3a7146b2b7015884d9020f5cbf5
-Author: Kurtyanik <45309985+Kurtyanik@users.noreply.github.com>
-Date:   Sat Nov 21 20:02:16 2020 +0300
-
-    Файл создан пустым
-
-commit 3c6e9131bb47ed6009c28226afb0535c7f6d5964
-Author: Kurtyanik <45309985+Kurtyanik@users.noreply.github.com>
-Date:   Sat Nov 21 19:58:20 2020 +0300
-
-Merge: 8ecb019 8daf57b
-Author: pol1np <polinaprotcenko@gmail.com>
-Date:   Fri Nov 15 06:41:37 2024 +0300
-
-    Merge branch 'report' of https://github.com/pol1np/LR6 into report
-
-commit 8daf57bf5d1ce4f171aeed7d3963ac29a62050e4
-Author: pol1np <144121623+pol1np@users.noreply.github.com>
-Date:   Fri Nov 15 06:33:33 2024 +0300
-
-    Update README.md
-
-commit 3ce9dc979ca93ad1602889a11feeb0e29cd3a31f
-Author: pol1np <144121623+pol1np@users.noreply.github.com>
-Date:   Fri Nov 15 06:03:43 2024 +0300
-
-    Add files via upload
-
-commit 3190cbebe9bf1f5848b45a6327a7265702e08e56
-Author: pol1np <144121623+pol1np@users.noreply.github.com>
-Date:   Fri Nov 15 06:01:36 2024 +0300
-
-
+* 8b2cbd8 2024-11-15 pol1np Create New file
+* 921f53b 2020-11-21 Kurtyanik Обновление информации
+* c08a654 2020-11-21 Kurtyanik Файл создан пустым
+* 3c6e913 2020-11-21 Kurtyanik Initial commit
 
 
 
